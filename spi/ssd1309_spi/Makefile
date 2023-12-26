@@ -1,3 +1,3 @@
-TARGET=bmp280_i2c
+TARGET=ssd1309_spi
 
 include ../../Makefile

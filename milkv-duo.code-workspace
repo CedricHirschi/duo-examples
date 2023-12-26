@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu-22.04/home/mlnslm/Desktop/duo-examples"
+		}
+	],
+	"remoteAuthority": "wsl+ubuntu-22.04",
+	"settings": {
+		"files.associations": {
+			"*.emProject": "xml",
+			"stdio.h": "c"
+		}
+	}
+}

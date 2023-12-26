@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.emProject": "xml",
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "ssd1309.h": "c",
+        "time.h": "c",
+        "stdint.h": "c"
+    }
+}

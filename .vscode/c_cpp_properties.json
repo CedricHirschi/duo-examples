@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "MilkV Duo",
+            "intelliSenseMode": "linux-gcc-arm",
+            "compilerPath": "${workspaceFolder}/duo-sdk/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_GNU_SOURCE"
+            ]
+        }
+    ],
+    "version": 4
+}
