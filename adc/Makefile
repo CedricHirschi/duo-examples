@@ -1,0 +1,3 @@
+TARGET = adc
+
+include ../Makefile
